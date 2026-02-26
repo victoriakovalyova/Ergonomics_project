@@ -1,4 +1,4 @@
-```markdown
+
 # Документация по умному матрасу
 
 ## Техническое обеспечение
@@ -58,4 +58,4 @@
    ```bash
    sudo systemctl restart sensorscol.service
    ```
-```
+
